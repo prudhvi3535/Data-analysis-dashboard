@@ -24,5 +24,5 @@ and multi cards,new parameters for different filters.
 - optimised dashboard performance using DAX.
 - created pivot tables into one dashboard and apply slicers to make dynamic and more interracting.
 ## Dashboard
-
+https://github.com/prudhvi3535/Data-analysis-dashboard/blob/main/Dashboard%20image.png
 
