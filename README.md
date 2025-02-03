@@ -21,8 +21,14 @@ The blinkit store wants to create an annual sales report for 2022. so that,the o
 calculated columns. 
 - Employed power BI features like slicers to better viewing about outlets -location type,size ,item type 
 and multi cards,new parameters for different filters. 
-- optimised dashboard performance using DAX.
 - created pivot tables into one dashboard and apply slicers to make dynamic and more interracting.
 ## Dashboard
 https://github.com/prudhvi3535/Data-analysis-dashboard/blob/main/Dashboard%20image.png
+## project insights
+- The outlet type supermarket type1 having more sales compared to others ,particularly in 2017.
+- The item type fruits and vegitables are having more purchased using blinkit (0.15 M)
+- The outlet tier2 is consumes the most low fats compared to tier3 and tier1.
+- The medium outlet size having more sales percentage ( 37.83 %).
+- optimised dashboard performance using DAX.
+
 
