@@ -23,7 +23,8 @@ calculated columns.
 and multi cards,new parameters for different filters. 
 - created pivot tables into one dashboard and apply slicers to make dynamic and more interracting.
 ## Dashboard
-https://github.com/prudhvi3535/Data-analysis-dashboard/blob/main/Dashboard%20image.png
+![Screenshot 2025-02-03 141411](https://github.com/user-attachments/assets/28d605c1-7b2e-465c-9109-92692a86d00e)
+
 ## Project Insights
 - The outlet type supermarket type1 having more sales compared to others ,particularly in 2017.
 - The item type fruits and vegitables are having more purchased using blinkit (0.15 M)
