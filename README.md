@@ -31,5 +31,8 @@ and multi cards,new parameters for different filters.
 - The outlet tier2 is consumes the most low fats compared to tier3 and tier1.
 - The medium outlet size having more sales percentage ( 37.83 %).
 - optimised dashboard performance using DAX.
+## Final conclusion
+To improve sales of blinkit store ,a strategic marketing plan focused on items more sold should be implemented. This demographic represents a key consumer segment ,as they
+often make significant household and lifestyle purchase. The approach should include targeted digital marketing campaigns and personlized promotions to capture user attention.
 
 
