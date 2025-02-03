@@ -1,2 +1,4 @@
-# Data-analysis-dashboard
-I developed a comprehensive project in power BI , creating multiple dashboards and tables to analyze the data. the process involved several stages including data processing ,data cleaning and data visualisation.
+# Blinkit analysis - FMCG domain [MS Excel | Power BI] 
+## Project Objective 
+The blinkit store wants to create an annual sales report for 2022. so that,the owner of blintit store can understand their customers and grow more sales in 2023 & 2024.
+
